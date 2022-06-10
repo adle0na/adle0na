@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/>&nbsp;
 <br>  
 <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=plastic&logo=UnrealEngine&logoColor=blue"/>&nbsp;
-<img src="https://img.shields.io/badge/-Unity-0E1128?style=plastic&logo=Unity&logoColor=black"/>&nbsp;  
+<img src="https://img.shields.io/badge/-Unity-0E1128?style=plastic&logo=Unity&logoColor=white"/>&nbsp;  
 </p>
 
 ### 🌱 My github status<br>
