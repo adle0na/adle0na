@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome SangWook_H's GitHub.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome SangWook's GitHub.</h1>
 
 <p>Welcome to my page! </br> I'm SangWook Hwang, Engine developer and Game Planner  from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
 </h1>
