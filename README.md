@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome SangWook's GitHub.</h1>
 
-<p>Welcome to my page! </br> I'm SangWook Hwang, Studing Engine development and Game Planning  from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
+<p>Welcome to my page! </br> I'm SangWook Hwang, Studying Engine development and Game Planning  from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
 </h1>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adle0na&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
