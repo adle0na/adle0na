@@ -10,11 +10,12 @@
 #### 👋 Techs that I've used at least once
 
 <p align="center">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/-C++-7952B3?style=plastic&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JAVA-007396?style=plastic&logo=JAVA&logoColor=white"/>&nbsp;
+<br>
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/-C++-7952B3?style=plastic&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <br>  
 <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=plastic&logo=UnrealEngine&logoColor=blue"/>&nbsp;
 <img src="https://img.shields.io/badge/-Unity-0E1128?style=plastic&logo=Unity&logoColor=white"/>&nbsp;  
