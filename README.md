@@ -42,4 +42,4 @@ My Others
 </p>
 
 ------------
-<p align="center"></br>Last refresh: Wednesday, 8 June, 05:47 CEST<br />
+<p align="center"></br>Last refresh: Saturday, 25 June, 03:32 CEST<br />
