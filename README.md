@@ -24,7 +24,7 @@
 ### 🌱 My github status<br>
 ![SangWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=adle0na&show_icons=true&theme=shades-of-purple)
 ### 🌱 My top languages<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adle0na&layout=compact&theme=nightowl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adle0na&hide=ShaderLab&layout=compact&theme=nightowl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Photos
 <br>
