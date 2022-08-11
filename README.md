@@ -3,11 +3,12 @@
 <p>Welcome to my page! </br> I'm SangWook Hwang, Studying Engine development and Game Planning  from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
 </h1>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adle0na&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+<br>
+<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adle0na&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
 
-## 📚 Tech Stack 📚
-#### 👋 Techs that I've used at least once
+## <p align="center"> 📚 Tech Stack 📚
+#### <p align="center"> 👋 Techs that I've used at least once
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>&nbsp;
@@ -16,9 +17,13 @@
 <br>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-C++-7952B3?style=plastic&logo=c%2B%2B&logoColor=white"/>&nbsp;
-<br>  
-<img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=plastic&logo=UnrealEngine&logoColor=blue"/>&nbsp;
-<img src="https://img.shields.io/badge/-Unity-0E1128?style=plastic&logo=Unity&logoColor=white"/>&nbsp;  
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
+<br>
+<h3 align="center"><b>🎮 GameEngine 🎮</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unreal-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white"/>
+
 </p>
 
 ### 🌱 My github status<br>
@@ -42,4 +47,4 @@ My Others
 </p>
 
 ------------
-<p align="center"></br>Last refresh: Sunday, 24 July, 21:20 CEST<br />
+<p align="center"></br>Last refresh: Friday, 12 August, 12:52 CEST<br />
