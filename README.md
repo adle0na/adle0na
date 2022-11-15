@@ -48,4 +48,4 @@ My Others
 </p>
 
 ------------
-<p align="center"></br>Last refresh: saturday, 12 November, 11:30 <br />
+<p align="center"></br>Last refresh: Tuesday, 15 November, 11:55 <br />
