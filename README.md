@@ -4,8 +4,6 @@
 </h1>
 <p align="center">
 <br>
-<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adle0na&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
-</p>
   
 ## <p align="center"> 📚 Tech Stack 📚
 #### <p align="center"> 👋 Techs
