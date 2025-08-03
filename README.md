@@ -8,10 +8,9 @@
 </p>
   
 ## <p align="center"> 📚 Tech Stack 📚
-#### <p align="center"> 👋 Techs that I've used at least once
+#### <p align="center"> 👋 Techs
 
 <p align="center">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-C++-7952B3?style=plastic&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
 <br>
