@@ -44,10 +44,9 @@ My Others
 	
 	
 [![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)](https://www.notion.so/7b501489bcdc4b1db6ab4daec4748f15)</b>
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://adle0na.tistory.com/)</b>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tkddnr9546@gmail.com)</p>
 	
 </p>
 
 ------------
-<p align="center"></br>Last refresh: Thursday, 12 June, 09:12 <br />
+<p align="center"></br>Last refresh: Sunday, 3 October, 21:47 <br />
