@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome Adle0na's GitHub.</h1>
 
-<p align="center">Welcome to my page! </br> I'm SangWook Hwang, Studying Engine development and Game Design from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
+<p align="center">Welcome to my page! </br> I'm Doyoon Hwang, Studying Engine development and Game Design from <img src="https://user-images.githubusercontent.com/44155920/172546148-44b53d54-8eaf-41d0-a03c-6e5368aa6afd.png" width="13"/> 
 </h1>
 <p align="center">
 <br>
@@ -20,7 +20,7 @@
 </p>
 
 ### 🌱 My github status<br>
-![SangWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=adle0na&show_icons=true&theme=shades-of-purple)
+![Doyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adle0na&show_icons=true&theme=shades-of-purple)
 ### 🌱 My top languages<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adle0na&hide=ShaderLab&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
